@@ -61,3 +61,5 @@
  * `source_code`: source code of contracts.
  * `token_bytecode`: runtime bytecode of token contracts.
  * `unique_bytecode`: unique runtime bytecodes.
+
+### The executable is available at https://anonymous.4open.science/r/Executable-DF4F
